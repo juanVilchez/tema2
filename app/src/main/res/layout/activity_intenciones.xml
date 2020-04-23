@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="maps"
-        android:text="Google Maps" />
+        android:text="GoogleMaps" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
