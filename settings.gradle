@@ -1,0 +1,2 @@
+rootProject.name='mitema2online'
+include ':app'
