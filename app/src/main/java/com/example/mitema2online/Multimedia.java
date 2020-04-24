@@ -22,6 +22,7 @@ public class Multimedia extends AppCompatActivity {
         super.onResume();
         mp.start();
     }
+    //cuando la aplicacion se detiene o no se ve por completo.
     @Override
     protected void onPause()
     {

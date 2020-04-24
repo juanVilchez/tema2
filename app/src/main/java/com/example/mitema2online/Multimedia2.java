@@ -24,3 +24,4 @@ public class Multimedia2 extends AppCompatActivity {
         videoView.start();
     }
 }
+

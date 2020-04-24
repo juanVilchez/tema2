@@ -36,4 +36,9 @@
         android:layout_height="wrap_content"
         android:onClick="whassap"
         android:text="Enviar un whassap" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="navegacion"
+        android:text="Navegacion" />
 </LinearLayout>
