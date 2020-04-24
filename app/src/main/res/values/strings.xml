@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">mitema2online</string>
     <string name="Multimedia2">Multimedia2</string>
+    <string name="drawer_open">abrir</string>
+    <string name="drawer_close">cerrar</string>
 </resources>
